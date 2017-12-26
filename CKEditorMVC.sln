@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CKEditorMVC", "CKEditorMVC\CKEditorMVC.csproj", "{65CC5F15-5597-488F-B42B-DD211FEF4706}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CKEditorMVC.Datos", "CKEditorMVC.Datos\CKEditorMVC.Datos.csproj", "{CEC415C9-A54F-4C0E-9A1F-15AF55D36ACC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{65CC5F15-5597-488F-B42B-DD211FEF4706}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65CC5F15-5597-488F-B42B-DD211FEF4706}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65CC5F15-5597-488F-B42B-DD211FEF4706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC415C9-A54F-4C0E-9A1F-15AF55D36ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC415C9-A54F-4C0E-9A1F-15AF55D36ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC415C9-A54F-4C0E-9A1F-15AF55D36ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC415C9-A54F-4C0E-9A1F-15AF55D36ACC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
